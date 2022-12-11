@@ -5,6 +5,10 @@ or overwhelmed by having too many subpar options to pick from, you might value a
 that some others put on reducing that kind of entropy, maybe by trying to achieve some sort of
 consensous and agree on doing thinks the same way.
 
+* Fight [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here)
+* Embrace [KISS principle](https://en.wikipedia.org/wiki/KISS_principle), don't overengineer but think
+  about how your idea would scale.
+
 ### Joining
 
 If you like the idea go to our [discussions forum](https://github.com/orgs/stdize/discussions) and
