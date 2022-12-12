@@ -9,7 +9,7 @@ consensous and agree on doing thinks the same way.
 * Embrace [KISS principle](https://en.wikipedia.org/wiki/KISS_principle), don't overengineer but think
   about how your idea would scale.
 
-### [Joining un](https://github.com/orgs/stdize/discussions)
+### [Joining us](https://github.com/orgs/stdize/discussions)
 
 If you like the idea go to our [discussions forum](https://github.com/orgs/stdize/discussions) and **just
 post a comment** to the thread about joining, so you can receive an invite. Also feel free to post any
